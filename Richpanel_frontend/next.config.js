@@ -1,0 +1,10 @@
+module.exports = {
+	reactStrictMode: true,
+	env: {
+		APP_ID: "611574530195155",
+		APP_SECRET: "fe4ebaa1aca32f317a72d0266dc673b5",
+		MONGO_URI:
+			"mongodb+srv://mayankjha:fineline@cluster0.ewawg.mongodb.net/fb_helpdesk?retryWrites=true&w=majority",
+		JWT_SECRET: "cvbugnuri0hvurt286356tchneugeugmawialfobfiughcm4",
+	},
+};
